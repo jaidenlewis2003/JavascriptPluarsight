@@ -12,6 +12,8 @@ console.log(num5);
 // Creating numbers with e-notation
 let num6 = 1.2e+10;
 console.log(num6);
+let num7 =1.6e+20;
+console.log(num7);
 
 // How big and small can we get with the number type
 console.log(`Minimum Value: ${Number.MIN_VALUE}`);
